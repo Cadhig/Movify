@@ -1,6 +1,4 @@
-# Project-One-Movify
-
-## Description
+# Movify
 
 This project is a front end application that utilizes APIs, Semantic UI CSS framework, Jquery, and Dayjs to search for movies, display search results, and load movie details. It allows the user to search for any movie across all streaming services and access information including the cast, directors, trailers, and release date.
 
